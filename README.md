@@ -1,7 +1,7 @@
 # Implement-a-simple-ATM-controller
 
 ## Description
-This repository is implementation of a simple ATM controller. It contains basic functions like <b>inserting card</b>, <b>entering PIN</b>, <b>Seeing accounts and balance</b>, <b>Deposit</b>, <b>Withdrawal</b>.
+This repository is implementation of a simple ATM controller. It contains basic functions like <b>inserting card</b>, <b>entering PIN</b>, <b>Selecting accounts, Seeing balance</b>, <b>Deposit</b>, and <b>Withdrawal</b>.
 </br></br>
 
 ## Download Repository
