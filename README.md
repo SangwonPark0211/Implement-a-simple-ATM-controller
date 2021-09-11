@@ -2,7 +2,7 @@
 
 ## Description
 This repository is implementation of a simple ATM controller. It contains basic functions like <b>inserting card</b>, <b>entering PIN</b>, <b>Selecting accounts, Seeing balance</b>, <b>Deposit</b>, and <b>Withdrawal</b>.
-</br>
+</br></br>
 
 ## Download Repository
 ```
@@ -21,7 +21,7 @@ python 3.X version is required
 self.customer = {"00" : {'1' : 50, '2' : 100}, "01" : {'3' : 99, '4' : 0}, "10" : {'5' : 5}, "11" : {'6' : 27}}
 ```
 I made an example data in ATM class for test implementation. There are 4 customers and their PIN are 00, 01, 10, 11. For example, customer with PIN 00 has 2 accounts. Account names are 1, 2 with balance 50$, 100$ repectively. And customer with PIN 11 has only 1 accounts. Account name is 6 with balance 27$.
-</br>
+</br></br>
 
 ## Usage
 1. Run test.py file with command "python test.py"
